@@ -1,0 +1,19 @@
+{
+  "conversion_rate": 1.60934,
+  "unit_from": "miles",
+  "unit_to": "kilometers",
+  "examples": [
+    {
+      "miles": 1,
+      "kilometers": 1.60934
+    },
+    {
+      "miles": 5,
+      "kilometers": 8.0467
+    },
+    {
+      "miles": 10,
+      "kilometers": 16.0934
+    }
+  ]
+}
